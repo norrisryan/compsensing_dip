@@ -1,8 +1,8 @@
 # Compressed Sensing with Deep Image Prior
+This is a fork of the repository which provides code to reproduce results from the paper: [Compressed Sensing with Deep Image Prior and Learned Regularization](https://arxiv.org/pdf/1806.06438.pdf). In this fork I will be applying the technique to data from optical interferometry.
 
-This repository provides code to reproduce results from the paper: [Compressed Sensing with Deep Image Prior and Learned Regularization](https://arxiv.org/pdf/1806.06438.pdf). 
 
-Here are a few example results:
+Here are a few example results from the original code:
 
 MNIST at 75 measurements                 | X-ray at 2000 measurements
 -----------------------------------------|-----------------------------------------
